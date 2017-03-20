@@ -1,5 +1,11 @@
 # Tantalum
 
+There seems to be a pretty high cost to getting into this field. Figuring out
+how to do audio processing, for example, will take awhile. I suppose I should
+start by trying to open one file WAV file of raw audio.
+
+# Ramble
+
 A little thing that will replace all other little things in the little field of
 natural languages. Well, yeah, you know.
 
